@@ -1,0 +1,15 @@
+Atividade 03
+
+
+
+1) Modelagem Conceitual: 
+
+ O processo de desenvolver um modelo ou representação gráfica usando conceitos.
+
+2) Projeto Lógico: 
+
+Etapa após da modelagem conceitual, definido como a descrição da estrutura que pode ser processada pelo SGBD.
+
+3) Projeto Físico: 
+
+É a parte final do projeto de banco de dados.
